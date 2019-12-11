@@ -556,7 +556,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Leaf Pants"] ={
 itemType = "armor",
 locus = "legs",
-absorb = 3,
+absorb = 2,
 coinValue = 1, --1/5,
 pieces = {
 "Leaf Pants Left Foot",
