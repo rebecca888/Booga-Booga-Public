@@ -666,7 +666,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Iron Greaves"] ={
 itemType = "armor",
 locus = "legs",
-protection = 6,
+absorb  = 6,
 coinValue = 1, --1/3,
 pieces = {
 "Iron Greaves Left Foot",
@@ -724,7 +724,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Steel Greaves"] ={
 itemType = "armor",
 locus = "legs",
-protection = 10,
+absorb = 8,
 coinValue = 1, --1,
 pieces = {
 "Steel Greaves Left Foot",
@@ -745,7 +745,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Steel Helmet"] ={
 itemType = "armor",
 locus = "head",
-protection = 10,
+protection = 8,
 coinValue = 1, --1,
 pieces = {
 "Steel Helmet",
@@ -762,7 +762,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Steel Chestplate"] ={
 itemType = "armor",
 locus = "torso",
-protection = 10,
+absorb = 16,
 coinValue = 1, --1,
 pieces = {
 "Steel Chestplate",
@@ -781,7 +781,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Adurite Greaves"] ={
 itemType = "armor",
 locus = "legs",
-protection = 12,
+absorb = 15,
 coinValue = 1, --1,
 pieces = {
 "Adurite Greaves Left Foot",
@@ -803,7 +803,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Adurite Helmet"] ={
 itemType = "armor",
 locus = "head",
-protection = 12,
+absorb = 15,
 coinValue = 1, --1,
 pieces = {
 "Adurite Helmet",
@@ -821,7 +821,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Adurite Chestplate"] ={
 itemType = "armor",
 locus = "torso",
-protection = 12,
+absorb = 30,
 coinValue = 1, --1,
 pieces = {
 "Adurite Chestplate",
@@ -1059,7 +1059,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["God Legs"] ={
 itemType = "armor",
 locus = "legs",
-protection = 25,
+absorb = 22,
 mojoRecipe = true,
 description = "Recipe for the God armor leg piece",
 coinValue = 1, --1,
@@ -1082,7 +1082,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["God Halo"] ={
 itemType = "armor",
 locus = "head",
-protection = 25,
+protection = 22,
 coinValue = 1, --1,
 description = "Recipe for the God armor head piece",
 mojoRecipe = true,
