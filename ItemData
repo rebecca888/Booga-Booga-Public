@@ -602,7 +602,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 itemType = "armor",
 locus = "torso",
 coinValue = 1, --1/5,
-absorb = 3,
+absorb = 4,
 pieces = {
 "Leaf Shirt",
 },
