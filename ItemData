@@ -666,7 +666,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Iron Greaves"] ={
 itemType = "armor",
 locus = "legs",
-protection = 8,
+protection = 6,
 coinValue = 1, --1/3,
 pieces = {
 "Iron Greaves Left Foot",
@@ -688,7 +688,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 itemType = "armor",
 locus = "head",
 coinValue = 1, --1/3,
-protection = 10,
+absorb = 6,
 pieces = {
 "Iron Helmet",
 },
@@ -705,7 +705,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 itemType = "armor",
 locus = "torso",
 coinValue = 1, --1/3,
-protection = 10,
+absorb = 12,
 pieces = {
 "Iron Chestplate",
 "Iron Left Shoulder",
