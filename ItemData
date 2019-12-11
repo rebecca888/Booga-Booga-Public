@@ -745,7 +745,7 @@ image = "http://www.roblox.com/Game/Tools/ThumbnailAsset.ashx?fmt=png&wd=420&ht=
 ["Steel Helmet"] ={
 itemType = "armor",
 locus = "head",
-protection = 8,
+absorb = 8,
 coinValue = 1, --1,
 pieces = {
 "Steel Helmet",
